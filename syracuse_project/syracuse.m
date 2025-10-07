@@ -4,8 +4,8 @@ function out = syracuse(u)
         % Even
         ...
     else
-        % Odd
-        ...
+        % CAS IMPAIR
+        zob=1
     end
 
     if out ~= 1
