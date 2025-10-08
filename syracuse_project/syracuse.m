@@ -10,7 +10,7 @@ function out = syracuse(u)
 
     if out ~= 1
         % Recursivity
-        ...
+        est-ce que ca va enfin fonctionner !!!
     end
 
 end
