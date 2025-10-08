@@ -2,7 +2,7 @@ function out = syracuse(u)
 
     if rem(u, 2) == 0
         % Even
-        u = v;
+        n = u/2;
     else
         % CAS IMPAIR
         zob=1
