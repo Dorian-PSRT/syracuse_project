@@ -4,6 +4,7 @@ function out = syracuse(u)
         % Even
         n = u/2;
     else
+    jj
         % CAS IMPAIR
         zob=1
     end
